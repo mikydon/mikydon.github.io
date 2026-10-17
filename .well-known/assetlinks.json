@@ -1,0 +1,18 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mikydon.hwapp",
+      "sha256_cert_fingerprints": ["40:C6:32:83:D3:DA:E2:AE:F6:6E:AF:11:10:65:41:50:5C:B1:21:27:12:0D:50:8B:06:6D:4E:F6:76:41:0E:1C"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mikydon.hwapp.test",
+      "sha256_cert_fingerprints": ["3B:93:BD:E3:B5:6F:40:1A:C0:05:60:06:99:62:DB:28:93:33:5E:ED:FA:17:7A:E2:4F:2E:70:1B:4E:B7:1F:1D"]
+    }
+  }
+]
